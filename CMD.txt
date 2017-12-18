@@ -1,0 +1,12 @@
+﻿B1: down về: git clone domain
+B2: Tạo file trong file dã download về những thông tin cần.
+B3: Trỏ tới thư mục cần làm trên git cd 'thư mục'
+B3: Lệnh up: git add tên_file
+B4: Dùng lệnh: git commit -m "Tên c?n thông báo"
+B5: Lệnh: git status or git log xem file dã lên chua.
+B6: dùng lệnh git push hoàn thành việc up
+B7: Update file: 
+	+ git add "file update trùng tên"
+	+ dùng git difftool HEAD dể show thông tin update mới và thông tin update cũ
+	+ xong dùng git commit -m 'thông tin update mới'
+	
